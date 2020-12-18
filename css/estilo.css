@@ -1,0 +1,26 @@
+#cajaA{
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cajas{
+    position: relative;
+    width: 150px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: blanchedalmond;
+}
+#caja2{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    background-color: yellowgreen;
+
+}
+body{
+    background-color: aquamarine;
+}
